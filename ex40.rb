@@ -13,7 +13,7 @@ end
 
 happy_bday = Song.new(["Happy birthday to you",
 										"I don't want to get sued",
-										"So I'll stop roght there"])
+										"So I'll stop right there"])
 
 bull_on_parade = Song.new(["They rally around the family",
 													"With pockets full of shells"])
